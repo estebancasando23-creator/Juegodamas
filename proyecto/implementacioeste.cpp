@@ -45,7 +45,6 @@ void pausar() {
     std::cin.get();
 }
 
-// ===== Lógica del juego =====
 void jugarPartida() {
     std::string jugador1, jugador2;
     int puntaje1, puntaje2;
